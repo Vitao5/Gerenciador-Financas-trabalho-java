@@ -1,0 +1,4 @@
+com\mycompany\sistemafinanceiro\BO\UsuarioBOTest.class
+com\mycompany\sistemafinanceiro\util\UsuarioUtilTest.class
+com\mycompany\sistemafinanceiro\DAO\UsuarioDAOIntegrationTest.class
+com\mycompany\sistemafinanceiro\MODEL\UsuarioTest.class
